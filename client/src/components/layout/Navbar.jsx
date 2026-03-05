@@ -16,7 +16,7 @@ export default function Navbar() {
             className="h-8 w-auto"
           />
           <h1 className="font-bold text-xl tracking-wide">
-            Negative Zero
+            NegativeZero
           </h1>
         </div>
 

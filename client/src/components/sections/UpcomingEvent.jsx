@@ -15,7 +15,7 @@ export default function UpcomingEvent() {
 
           {/* Brochure Button */}
           <a
-            href="/brochure/negative-zero-brochure.pdf"
+            href="/brochure/NegativeZeroBrochure!.pdf.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-4 px-8 py-3 bg-white text-black font-semibold rounded-full hover:scale-105 transition"
