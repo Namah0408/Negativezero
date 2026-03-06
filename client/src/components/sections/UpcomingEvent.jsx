@@ -8,7 +8,7 @@ export default function UpcomingEvent() {
         <SectionHeading title="Next Edition" />
         
         <div className="text-center space-y-6">
-          <p className="text-3xl font-bold">29th March 2026</p>
+          <p className="text-3xl font-bold">12th April 2026</p>
           <p className="text-gray-400">
             SCZCC Nagpur | 4000+ Expected Visitors
           </p>
