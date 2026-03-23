@@ -9,7 +9,7 @@ export default function Sponsors() {
         <SectionHeading title="Trusted By" />
         <div className="flex justify-center gap-12 flex-wrap">
           {sponsors.map((s) => (
-            <img key={s.name} src={s.logo} alt={s.name} className="h-20" />
+            <img key={s.name} src={s.logo} alt={s.name} className="h-30" />
           ))}
         </div>
       </Container>
